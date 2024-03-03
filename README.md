@@ -1,2 +1,2 @@
 # PowerBi
-Visualisasi data menggunakan Power BI
+Churn Prediksi dan Visualisasi data menggunakan Power BI
